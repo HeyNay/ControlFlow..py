@@ -1,14 +1,14 @@
-grade = 80
+grade = 91
 
-print("")
+print("Your grade is")
  
-if grade >= A:
+if grade >= 90:
   print("A")
-elif grade >= B:
+elif grade >= 80:
   print("B")
-elif grade >= C:
+elif grade >= 70:
   print("C")
-elif grade >= D:
+elif grade >= 60:
   print("D")
 else:
   print("F")
