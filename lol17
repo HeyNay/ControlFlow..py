@@ -1,0 +1,11 @@
+import random
+
+random_number = random.randint(1, 9)
+
+print(random_number)
+
+name = "Brandon"
+
+question = "Is it going to be a good day?"
+
+answer = "I think Yes"
